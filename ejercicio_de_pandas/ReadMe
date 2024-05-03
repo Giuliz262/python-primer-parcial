@@ -1,0 +1,17 @@
+Para ejecutar este proyecto debemos tener instaladas las librerías usadas.
+
+En este caso, la librería utilizada es Pandas. Para instalarla debemos escribir el siguiente comando:
+
+```bash
+pip install pandas
+```
+
+Una vez realizada la instalación ya se podrá ejecutar el proyecto, hay que estar posicionado en el directorio correcto, para ello realizamos:
+
+cd nombre-del-direcctorio
+
+Y ejecutamos:
+
+```bash
+python index.py
+```
